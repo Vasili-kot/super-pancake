@@ -1,0 +1,12 @@
+C:\test\myarealib\myarealib\bin\Debug\net6.0\myarealib.deps.json
+C:\test\myarealib\myarealib\bin\Debug\net6.0\myarealib.dll
+C:\test\myarealib\myarealib\bin\Debug\net6.0\ref\myarealib.dll
+C:\test\myarealib\myarealib\bin\Debug\net6.0\myarealib.pdb
+C:\test\myarealib\myarealib\obj\Debug\net6.0\myarealib.csproj.AssemblyReference.cache
+C:\test\myarealib\myarealib\obj\Debug\net6.0\myarealib.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\myarealib\myarealib\obj\Debug\net6.0\myarealib.AssemblyInfoInputs.cache
+C:\test\myarealib\myarealib\obj\Debug\net6.0\myarealib.AssemblyInfo.cs
+C:\test\myarealib\myarealib\obj\Debug\net6.0\myarealib.csproj.CoreCompileInputs.cache
+C:\test\myarealib\myarealib\obj\Debug\net6.0\myarealib.dll
+C:\test\myarealib\myarealib\obj\Debug\net6.0\ref\myarealib.dll
+C:\test\myarealib\myarealib\obj\Debug\net6.0\myarealib.pdb
